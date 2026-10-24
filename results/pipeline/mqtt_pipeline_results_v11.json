@@ -6,116 +6,116 @@
     "cloud": "localhost:1884"
   },
   "device_registry": {
-    "755ece3a": {
-      "device_id": "755ece3a",
+    "84a47981": {
+      "device_id": "84a47981",
       "sensor_type": "temperature",
       "port": "port_01",
       "device_label": "SC01 (h1)",
-      "confidence": 1.0,
+      "confidence": 0.9938176274299622,
       "topics": {
-        "raw": "iot/edge/raw/temperature/755ece3a",
-        "compressed": "iot/edge/compressed/temperature/755ece3a",
-        "cloud_compressed": "iot/cloud/compressed/temperature/755ece3a",
-        "reconstructed": "iot/cloud/reconstructed/temperature/755ece3a",
-        "metrics": "iot/cloud/metrics/755ece3a"
+        "raw": "iot/edge/raw/temperature/84a47981",
+        "compressed": "iot/edge/compressed/temperature/84a47981",
+        "cloud_compressed": "iot/cloud/compressed/temperature/84a47981",
+        "reconstructed": "iot/cloud/reconstructed/temperature/84a47981",
+        "metrics": "iot/cloud/metrics/84a47981"
       }
     },
-    "1f7d6b7e": {
-      "device_id": "1f7d6b7e",
+    "07ac405a": {
+      "device_id": "07ac405a",
       "sensor_type": "temperature",
       "port": "port_02",
       "device_label": "SC02 (h2)",
-      "confidence": 1.0,
+      "confidence": 0.8875303268432617,
       "topics": {
-        "raw": "iot/edge/raw/temperature/1f7d6b7e",
-        "compressed": "iot/edge/compressed/temperature/1f7d6b7e",
-        "cloud_compressed": "iot/cloud/compressed/temperature/1f7d6b7e",
-        "reconstructed": "iot/cloud/reconstructed/temperature/1f7d6b7e",
-        "metrics": "iot/cloud/metrics/1f7d6b7e"
+        "raw": "iot/edge/raw/temperature/07ac405a",
+        "compressed": "iot/edge/compressed/temperature/07ac405a",
+        "cloud_compressed": "iot/cloud/compressed/temperature/07ac405a",
+        "reconstructed": "iot/cloud/reconstructed/temperature/07ac405a",
+        "metrics": "iot/cloud/metrics/07ac405a"
       }
     },
-    "1b19dd13": {
-      "device_id": "1b19dd13",
+    "219877b8": {
+      "device_id": "219877b8",
       "sensor_type": "temperature",
       "port": "port_03",
       "device_label": "SC03 (h3)",
-      "confidence": 1.0,
+      "confidence": 0.9941184520721436,
       "topics": {
-        "raw": "iot/edge/raw/temperature/1b19dd13",
-        "compressed": "iot/edge/compressed/temperature/1b19dd13",
-        "cloud_compressed": "iot/cloud/compressed/temperature/1b19dd13",
-        "reconstructed": "iot/cloud/reconstructed/temperature/1b19dd13",
-        "metrics": "iot/cloud/metrics/1b19dd13"
+        "raw": "iot/edge/raw/temperature/219877b8",
+        "compressed": "iot/edge/compressed/temperature/219877b8",
+        "cloud_compressed": "iot/cloud/compressed/temperature/219877b8",
+        "reconstructed": "iot/cloud/reconstructed/temperature/219877b8",
+        "metrics": "iot/cloud/metrics/219877b8"
       }
     },
-    "fa6d04c1": {
-      "device_id": "fa6d04c1",
+    "7d0e8ad7": {
+      "device_id": "7d0e8ad7",
       "sensor_type": "humidity",
       "port": "port_04",
       "device_label": "SC04 (h4)",
-      "confidence": 0.9999896287918091,
+      "confidence": 0.9756931662559509,
       "topics": {
-        "raw": "iot/edge/raw/humidity/fa6d04c1",
-        "compressed": "iot/edge/compressed/humidity/fa6d04c1",
-        "cloud_compressed": "iot/cloud/compressed/humidity/fa6d04c1",
-        "reconstructed": "iot/cloud/reconstructed/humidity/fa6d04c1",
-        "metrics": "iot/cloud/metrics/fa6d04c1"
+        "raw": "iot/edge/raw/humidity/7d0e8ad7",
+        "compressed": "iot/edge/compressed/humidity/7d0e8ad7",
+        "cloud_compressed": "iot/cloud/compressed/humidity/7d0e8ad7",
+        "reconstructed": "iot/cloud/reconstructed/humidity/7d0e8ad7",
+        "metrics": "iot/cloud/metrics/7d0e8ad7"
       }
     },
-    "547dc584": {
-      "device_id": "547dc584",
+    "52317102": {
+      "device_id": "52317102",
       "sensor_type": "humidity",
       "port": "port_05",
       "device_label": "SC05 (h5)",
-      "confidence": 0.9999985694885254,
+      "confidence": 0.9995964169502258,
       "topics": {
-        "raw": "iot/edge/raw/humidity/547dc584",
-        "compressed": "iot/edge/compressed/humidity/547dc584",
-        "cloud_compressed": "iot/cloud/compressed/humidity/547dc584",
-        "reconstructed": "iot/cloud/reconstructed/humidity/547dc584",
-        "metrics": "iot/cloud/metrics/547dc584"
+        "raw": "iot/edge/raw/humidity/52317102",
+        "compressed": "iot/edge/compressed/humidity/52317102",
+        "cloud_compressed": "iot/cloud/compressed/humidity/52317102",
+        "reconstructed": "iot/cloud/reconstructed/humidity/52317102",
+        "metrics": "iot/cloud/metrics/52317102"
       }
     },
-    "84b02079": {
-      "device_id": "84b02079",
+    "e7202d7c": {
+      "device_id": "e7202d7c",
       "sensor_type": "brightness",
       "port": "port_06",
       "device_label": "SC06 (h6)",
-      "confidence": 0.9760643243789673,
+      "confidence": 0.7038698196411133,
       "topics": {
-        "raw": "iot/edge/raw/brightness/84b02079",
-        "compressed": "iot/edge/compressed/brightness/84b02079",
-        "cloud_compressed": "iot/cloud/compressed/brightness/84b02079",
-        "reconstructed": "iot/cloud/reconstructed/brightness/84b02079",
-        "metrics": "iot/cloud/metrics/84b02079"
+        "raw": "iot/edge/raw/brightness/e7202d7c",
+        "compressed": "iot/edge/compressed/brightness/e7202d7c",
+        "cloud_compressed": "iot/cloud/compressed/brightness/e7202d7c",
+        "reconstructed": "iot/cloud/reconstructed/brightness/e7202d7c",
+        "metrics": "iot/cloud/metrics/e7202d7c"
       }
     },
-    "3373d1de": {
-      "device_id": "3373d1de",
+    "e8405857": {
+      "device_id": "e8405857",
       "sensor_type": "brightness",
       "port": "port_07",
       "device_label": "SC07 (h7)",
-      "confidence": 0.9999412298202515,
+      "confidence": 1.0,
       "topics": {
-        "raw": "iot/edge/raw/brightness/3373d1de",
-        "compressed": "iot/edge/compressed/brightness/3373d1de",
-        "cloud_compressed": "iot/cloud/compressed/brightness/3373d1de",
-        "reconstructed": "iot/cloud/reconstructed/brightness/3373d1de",
-        "metrics": "iot/cloud/metrics/3373d1de"
+        "raw": "iot/edge/raw/brightness/e8405857",
+        "compressed": "iot/edge/compressed/brightness/e8405857",
+        "cloud_compressed": "iot/cloud/compressed/brightness/e8405857",
+        "reconstructed": "iot/cloud/reconstructed/brightness/e8405857",
+        "metrics": "iot/cloud/metrics/e8405857"
       }
     },
-    "9eaec4cf": {
-      "device_id": "9eaec4cf",
+    "46b35230": {
+      "device_id": "46b35230",
       "sensor_type": "voltage",
       "port": "port_08",
       "device_label": "SC08 (h8)",
-      "confidence": 1.0,
+      "confidence": 0.9991303086280823,
       "topics": {
-        "raw": "iot/edge/raw/voltage/9eaec4cf",
-        "compressed": "iot/edge/compressed/voltage/9eaec4cf",
-        "cloud_compressed": "iot/cloud/compressed/voltage/9eaec4cf",
-        "reconstructed": "iot/cloud/reconstructed/voltage/9eaec4cf",
-        "metrics": "iot/cloud/metrics/9eaec4cf"
+        "raw": "iot/edge/raw/voltage/46b35230",
+        "compressed": "iot/edge/compressed/voltage/46b35230",
+        "cloud_compressed": "iot/cloud/compressed/voltage/46b35230",
+        "reconstructed": "iot/cloud/reconstructed/voltage/46b35230",
+        "metrics": "iot/cloud/metrics/46b35230"
       }
     }
   },
@@ -130,7 +130,7 @@
         "reduction_pct": 50.0,
         "mse": 0.00155,
         "mae": 0.023068,
-        "reconstruction_time_ms": 19854.29
+        "reconstruction_time_ms": 23742.9
       },
       "SC02 (h2)": {
         "sensor_type": "Temperature",
@@ -141,7 +141,7 @@
         "reduction_pct": 50.0,
         "mse": 0.000734,
         "mae": 0.014899,
-        "reconstruction_time_ms": 20218.92
+        "reconstruction_time_ms": 24206.11
       },
       "SC03 (h3)": {
         "sensor_type": "Temperature",
@@ -152,7 +152,7 @@
         "reduction_pct": 50.0,
         "mse": 0.000316,
         "mae": 0.010423,
-        "reconstruction_time_ms": 19129.98
+        "reconstruction_time_ms": 23881.35
       },
       "SC04 (h4)": {
         "sensor_type": "Humidity",
@@ -163,7 +163,7 @@
         "reduction_pct": 50.0,
         "mse": 0.015974,
         "mae": 0.077419,
-        "reconstruction_time_ms": 19413.64
+        "reconstruction_time_ms": 24731.21
       },
       "SC05 (h5)": {
         "sensor_type": "Humidity",
@@ -174,7 +174,7 @@
         "reduction_pct": 50.0,
         "mse": 0.009201,
         "mae": 0.059266,
-        "reconstruction_time_ms": 20241.18
+        "reconstruction_time_ms": 23766.85
       },
       "SC06 (h6)": {
         "sensor_type": "Brightness",
@@ -185,7 +185,7 @@
         "reduction_pct": 50.0,
         "mse": 62.336816,
         "mae": 3.209636,
-        "reconstruction_time_ms": 20585.79
+        "reconstruction_time_ms": 36065.1
       },
       "SC07 (h7)": {
         "sensor_type": "Brightness",
@@ -196,7 +196,7 @@
         "reduction_pct": 50.0,
         "mse": 31.511409,
         "mae": 1.87411,
-        "reconstruction_time_ms": 21387.84
+        "reconstruction_time_ms": 56730.02
       },
       "SC08 (h8)": {
         "sensor_type": "Voltage",
@@ -207,7 +207,7 @@
         "reduction_pct": 50.0,
         "mse": 2.9e-05,
         "mae": 0.003694,
-        "reconstruction_time_ms": 22808.86
+        "reconstruction_time_ms": 57083.63
       }
     },
     "Conservative": {
@@ -220,7 +220,7 @@
         "reduction_pct": 75.0,
         "mse": 0.008781,
         "mae": 0.059705,
-        "reconstruction_time_ms": 29835.12
+        "reconstruction_time_ms": 75045.79
       },
       "SC02 (h2)": {
         "sensor_type": "Temperature",
@@ -231,7 +231,7 @@
         "reduction_pct": 75.0,
         "mse": 0.004455,
         "mae": 0.035268,
-        "reconstruction_time_ms": 29000.51
+        "reconstruction_time_ms": 78900.27
       },
       "SC03 (h3)": {
         "sensor_type": "Temperature",
@@ -242,7 +242,7 @@
         "reduction_pct": 75.0,
         "mse": 0.000748,
         "mae": 0.018811,
-        "reconstruction_time_ms": 28891.4
+        "reconstruction_time_ms": 46357.2
       },
       "SC04 (h4)": {
         "sensor_type": "Humidity",
@@ -253,7 +253,7 @@
         "reduction_pct": 90.0,
         "mse": 0.094058,
         "mae": 0.197622,
-        "reconstruction_time_ms": 34992.72
+        "reconstruction_time_ms": 64596.84
       },
       "SC05 (h5)": {
         "sensor_type": "Humidity",
@@ -264,7 +264,7 @@
         "reduction_pct": 90.0,
         "mse": 0.037145,
         "mae": 0.132249,
-        "reconstruction_time_ms": 35374.25
+        "reconstruction_time_ms": 95179.4
       },
       "SC06 (h6)": {
         "sensor_type": "Brightness",
@@ -275,7 +275,7 @@
         "reduction_pct": 83.3,
         "mse": 330.437762,
         "mae": 8.203967,
-        "reconstruction_time_ms": 32558.76
+        "reconstruction_time_ms": 77801.46
       },
       "SC07 (h7)": {
         "sensor_type": "Brightness",
@@ -286,7 +286,7 @@
         "reduction_pct": 83.3,
         "mse": 93.636503,
         "mae": 4.302084,
-        "reconstruction_time_ms": 33196.38
+        "reconstruction_time_ms": 74435.39
       },
       "SC08 (h8)": {
         "sensor_type": "Voltage",
@@ -297,7 +297,7 @@
         "reduction_pct": 98.3,
         "mse": 0.000192,
         "mae": 0.010776,
-        "reconstruction_time_ms": 38962.21
+        "reconstruction_time_ms": 82490.54
       }
     },
     "Aggressive": {
@@ -310,7 +310,7 @@
         "reduction_pct": 93.3,
         "mse": 0.063149,
         "mae": 0.167391,
-        "reconstruction_time_ms": 36308.07
+        "reconstruction_time_ms": 79230.09
       },
       "SC02 (h2)": {
         "sensor_type": "Temperature",
@@ -321,7 +321,7 @@
         "reduction_pct": 93.3,
         "mse": 0.014868,
         "mae": 0.07847,
-        "reconstruction_time_ms": 36663.77
+        "reconstruction_time_ms": 79135.73
       },
       "SC03 (h3)": {
         "sensor_type": "Temperature",
@@ -332,7 +332,7 @@
         "reduction_pct": 93.3,
         "mse": 0.017893,
         "mae": 0.068129,
-        "reconstruction_time_ms": 37169.46
+        "reconstruction_time_ms": 78818.61
       },
       "SC04 (h4)": {
         "sensor_type": "Humidity",
@@ -343,7 +343,7 @@
         "reduction_pct": 91.6,
         "mse": 0.940636,
         "mae": 0.590385,
-        "reconstruction_time_ms": 36286.32
+        "reconstruction_time_ms": 74980.62
       },
       "SC05 (h5)": {
         "sensor_type": "Humidity",
@@ -354,7 +354,7 @@
         "reduction_pct": 91.6,
         "mse": 0.187125,
         "mae": 0.273293,
-        "reconstruction_time_ms": 39936.45
+        "reconstruction_time_ms": 74725.17
       },
       "SC06 (h6)": {
         "sensor_type": "Brightness",
@@ -365,7 +365,7 @@
         "reduction_pct": 90.0,
         "mse": 629.589605,
         "mae": 11.2807,
-        "reconstruction_time_ms": 39173.86
+        "reconstruction_time_ms": 74372.02
       },
       "SC07 (h7)": {
         "sensor_type": "Brightness",
@@ -376,7 +376,7 @@
         "reduction_pct": 90.0,
         "mse": 157.216903,
         "mae": 5.867421,
-        "reconstruction_time_ms": 39765.48
+        "reconstruction_time_ms": 73532.45
       },
       "SC08 (h8)": {
         "sensor_type": "Voltage",
@@ -387,220 +387,220 @@
         "reduction_pct": 95.0,
         "mse": 0.000219,
         "mae": 0.010979,
-        "reconstruction_time_ms": 44047.12
+        "reconstruction_time_ms": 77877.68
       }
     }
   },
   "messaging": {
     "fipa_acl_total": 136,
-    "fipa_acl_bytes": 35992,
+    "fipa_acl_bytes": 36217,
     "fipa_acl_discovery": 40,
     "fipa_acl_operation": 96,
     "mqtt_edge_messages": 48,
-    "mqtt_edge_bytes": 73100,
+    "mqtt_edge_bytes": 73179,
     "mqtt_cloud_messages": 96,
     "mqtt_cloud_bytes": 937912,
     "total_messages": 280,
-    "total_bytes": 1047004,
-    "control_overhead_pct": 3.44
+    "total_bytes": 1047308,
+    "control_overhead_pct": 3.46
   },
   "network_metrics": {
     "discovery_latency": {
       "port_01": {
         "label": "SC01 (h1)",
         "sensor_type": "Temperature",
-        "classify_ms": 47.43,
-        "total_ms": 3062.34
+        "classify_ms": 50.03,
+        "total_ms": 3066.77
       },
       "port_02": {
         "label": "SC02 (h2)",
         "sensor_type": "Temperature",
-        "classify_ms": 33.95,
-        "total_ms": 3030.71
+        "classify_ms": 46.08,
+        "total_ms": 3063.51
       },
       "port_03": {
         "label": "SC03 (h3)",
         "sensor_type": "Temperature",
-        "classify_ms": 46.02,
-        "total_ms": 3048.92
+        "classify_ms": 49.93,
+        "total_ms": 3067.07
       },
       "port_04": {
         "label": "SC04 (h4)",
         "sensor_type": "Humidity",
-        "classify_ms": 31.87,
-        "total_ms": 3036.62
+        "classify_ms": 53.79,
+        "total_ms": 3063.66
       },
       "port_05": {
         "label": "SC05 (h5)",
         "sensor_type": "Humidity",
-        "classify_ms": 32.35,
-        "total_ms": 3052.39
+        "classify_ms": 53.31,
+        "total_ms": 3074.92
       },
       "port_06": {
         "label": "SC06 (h6)",
         "sensor_type": "Brightness",
-        "classify_ms": 39.52,
-        "total_ms": 3047.72
+        "classify_ms": 53.16,
+        "total_ms": 3067.63
       },
       "port_07": {
         "label": "SC07 (h7)",
         "sensor_type": "Brightness",
-        "classify_ms": 46.31,
-        "total_ms": 3062.55
+        "classify_ms": 53.71,
+        "total_ms": 3066.28
       },
       "port_08": {
         "label": "SC08 (h8)",
         "sensor_type": "Voltage",
-        "classify_ms": 47.22,
-        "total_ms": 3051.78
+        "classify_ms": 44.11,
+        "total_ms": 3059.41
       }
     },
-    "discovery_total_time_s": 24.39,
-    "avg_classify_ms": 40.58,
+    "discovery_total_time_s": 24.53,
+    "avg_classify_ms": 50.52,
     "operation_timestamps": {
       "SC01 (h1)__Baseline": {
         "label": "SC01 (h1)",
         "scenario": "Baseline",
         "sensor_type": "Temperature",
-        "total_ms": 19971.5
+        "total_ms": 23871.21
       },
       "SC02 (h2)__Baseline": {
         "label": "SC02 (h2)",
         "scenario": "Baseline",
         "sensor_type": "Temperature",
-        "total_ms": 20342.55
+        "total_ms": 24335.78
       },
       "SC03 (h3)__Baseline": {
         "label": "SC03 (h3)",
         "scenario": "Baseline",
         "sensor_type": "Temperature",
-        "total_ms": 19243.07
+        "total_ms": 23993.76
       },
       "SC04 (h4)__Baseline": {
         "label": "SC04 (h4)",
         "scenario": "Baseline",
         "sensor_type": "Humidity",
-        "total_ms": 19521.81
+        "total_ms": 24848.9
       },
       "SC05 (h5)__Baseline": {
         "label": "SC05 (h5)",
         "scenario": "Baseline",
         "sensor_type": "Humidity",
-        "total_ms": 20349.88
+        "total_ms": 23892.16
       },
       "SC06 (h6)__Baseline": {
         "label": "SC06 (h6)",
         "scenario": "Baseline",
         "sensor_type": "Brightness",
-        "total_ms": 20700.98
+        "total_ms": 36180.06
       },
       "SC07 (h7)__Baseline": {
         "label": "SC07 (h7)",
         "scenario": "Baseline",
         "sensor_type": "Brightness",
-        "total_ms": 21503.46
+        "total_ms": 56854.44
       },
       "SC08 (h8)__Baseline": {
         "label": "SC08 (h8)",
         "scenario": "Baseline",
         "sensor_type": "Voltage",
-        "total_ms": 22922.58
+        "total_ms": 57199.58
       },
       "SC01 (h1)__Conservative": {
         "label": "SC01 (h1)",
         "scenario": "Conservative",
         "sensor_type": "Temperature",
-        "total_ms": 29951.95
+        "total_ms": 75160.36
       },
       "SC02 (h2)__Conservative": {
         "label": "SC02 (h2)",
         "scenario": "Conservative",
         "sensor_type": "Temperature",
-        "total_ms": 29126.06
+        "total_ms": 79027.17
       },
       "SC03 (h3)__Conservative": {
         "label": "SC03 (h3)",
         "scenario": "Conservative",
         "sensor_type": "Temperature",
-        "total_ms": 29009.7
+        "total_ms": 46473.13
       },
       "SC04 (h4)__Conservative": {
         "label": "SC04 (h4)",
         "scenario": "Conservative",
         "sensor_type": "Humidity",
-        "total_ms": 35100.7
+        "total_ms": 64719.29
       },
       "SC05 (h5)__Conservative": {
         "label": "SC05 (h5)",
         "scenario": "Conservative",
         "sensor_type": "Humidity",
-        "total_ms": 35497.62
+        "total_ms": 95308.66
       },
       "SC06 (h6)__Conservative": {
         "label": "SC06 (h6)",
         "scenario": "Conservative",
         "sensor_type": "Brightness",
-        "total_ms": 32673.17
+        "total_ms": 77933.85
       },
       "SC07 (h7)__Conservative": {
         "label": "SC07 (h7)",
         "scenario": "Conservative",
         "sensor_type": "Brightness",
-        "total_ms": 33318.16
+        "total_ms": 74562.91
       },
       "SC08 (h8)__Conservative": {
         "label": "SC08 (h8)",
         "scenario": "Conservative",
         "sensor_type": "Voltage",
-        "total_ms": 39083.9
+        "total_ms": 82609.63
       },
       "SC01 (h1)__Aggressive": {
         "label": "SC01 (h1)",
         "scenario": "Aggressive",
         "sensor_type": "Temperature",
-        "total_ms": 36425.44
+        "total_ms": 79345.13
       },
       "SC02 (h2)__Aggressive": {
         "label": "SC02 (h2)",
         "scenario": "Aggressive",
         "sensor_type": "Temperature",
-        "total_ms": 36789.04
+        "total_ms": 79257.37
       },
       "SC03 (h3)__Aggressive": {
         "label": "SC03 (h3)",
         "scenario": "Aggressive",
         "sensor_type": "Temperature",
-        "total_ms": 37285.99
+        "total_ms": 78947.64
       },
       "SC04 (h4)__Aggressive": {
         "label": "SC04 (h4)",
         "scenario": "Aggressive",
         "sensor_type": "Humidity",
-        "total_ms": 36391.22
+        "total_ms": 75103.39
       },
       "SC05 (h5)__Aggressive": {
         "label": "SC05 (h5)",
         "scenario": "Aggressive",
         "sensor_type": "Humidity",
-        "total_ms": 40045.67
+        "total_ms": 74849.67
       },
       "SC06 (h6)__Aggressive": {
         "label": "SC06 (h6)",
         "scenario": "Aggressive",
         "sensor_type": "Brightness",
-        "total_ms": 39293.93
+        "total_ms": 74495.68
       },
       "SC07 (h7)__Aggressive": {
         "label": "SC07 (h7)",
         "scenario": "Aggressive",
         "sensor_type": "Brightness",
-        "total_ms": 39883.42
+        "total_ms": 73659.71
       },
       "SC08 (h8)__Aggressive": {
         "label": "SC08 (h8)",
         "scenario": "Aggressive",
         "sensor_type": "Voltage",
-        "total_ms": 44179.14
+        "total_ms": 77997.7
       }
     }
   }

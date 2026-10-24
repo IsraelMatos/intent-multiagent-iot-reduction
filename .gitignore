@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data.txt
+data.txt.gz
+*.npz
+/classifier/Resultados2_grid/
+/classifier/Resultados2_final/
+/comparison/Resultados_comparacao/

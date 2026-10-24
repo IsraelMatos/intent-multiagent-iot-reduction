@@ -1,0 +1,7 @@
+# Python 3.11 (pipeline/ and comparison/)
+tensorflow==2.15.0
+spade==3.3.2
+paho-mqtt>=2.0
+numpy
+matplotlib
+psutil

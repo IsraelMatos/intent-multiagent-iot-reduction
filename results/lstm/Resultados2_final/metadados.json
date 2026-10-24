@@ -1,0 +1,48 @@
+{
+  "observacoes": [
+    1000,
+    2000,
+    5000,
+    10000,
+    15000,
+    20000
+  ],
+  "janelas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "epocas": [
+    400
+  ],
+  "sementes": [
+    0
+  ],
+  "estrategias": {
+    "1": "sliding",
+    "2": "tumbling"
+  },
+  "normalizacoes": [
+    "nenhuma",
+    "zscore_janela"
+  ],
+  "fracoes": [
+    0.7,
+    0.15,
+    0.15
+  ],
+  "batch": 32,
+  "modo": "final",
+  "split": "cronologico antes do janelamento; cada segmento janelado com o passo da propria estrategia",
+  "tensorflow": "2.17.0",
+  "python": "3.9.13",
+  "plataforma": "Windows-10-10.0.26200-SP0",
+  "determinismo_estrito": false
+}
